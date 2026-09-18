@@ -306,3 +306,10 @@
 - 주소: 제주도 제주시 수덕5길 66
 - 추천메뉴: 고등어회
 - [지도 바로가기](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4/place/21758125?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh) 
+
+## 경기도
+### 스파게티스토리
+- 종류:양식
+- 주소:경기도 수원시 팔달구 우만동 58-13
+- 추천메뉴: 토마토소스 스파게티
+- [지도 바로가기](https://www.google.co.kr/maps/?entry=ttu&g_ep=EgoyMDI2MDkxNS4wIKXMDSoASAFQAw%3D%3D)
